@@ -1,2 +1,2 @@
 # hello-world
-first folder to use github
+This is my first writer of gitHub in the starties.
